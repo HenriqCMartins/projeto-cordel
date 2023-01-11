@@ -73,6 +73,7 @@ section.imagem {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.507);
     background-size: cover;
     background-attachment: fixed;
+    
 }
 
 section.imagem > p{
@@ -80,6 +81,7 @@ section.imagem > p{
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.377);
     text-shadow: 1.5px 1.5px 0px black;
+    border-radius: 2.5px;
 }
 
 section#img01 {
